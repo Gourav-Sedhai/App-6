@@ -3,11 +3,6 @@ Webcam Motion Dector
 
 #script1.py
 ----------------------------------------------------------------------
-# Application-6
-Webcam Motion Dector
-
-#script1.py
-----------------------------------------------------------------------
 
 import cv2, time, pandas
 from datetime import datetime
